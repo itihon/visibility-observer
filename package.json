@@ -1,6 +1,6 @@
 {
   "name": "@itihon/visibility-observer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Observes visibility state of a DOM element, allows to check if an element is visible in viewport.",
   "homepage": "https://github.com/itihon/visibility-observer/",
   "keywords": [
