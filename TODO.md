@@ -1,4 +1,4 @@
- - VisibilityChecker
+ - VisibilityObserver
   - [ ] add state callbacks onFullyVisible, onPartlyVisible, onInvisible
   - [ ] add states and corresponding callbacks: 
     PARTLY_VISIBLE_TOP
@@ -9,3 +9,5 @@
     INVISIBLE_RIGHT
     INVISIBLE_BOTTOM
     INVISIBLE_LEFT
+
+  - [ ] probably should create an instance instead of a singleton
