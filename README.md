@@ -3,13 +3,13 @@
 ### Installation
 
 ```sh
-npm install visibility-observer
+npm install @itihon/visibility-observer
 ```
 
 ### Usage
 
 ```js
-  import visibilityObserver from 'visibility-observer';
+  import visibilityObserver from '@itihon/visibility-observer';
 
   // start observing the target element
   visibilityObserver.observe(target);
